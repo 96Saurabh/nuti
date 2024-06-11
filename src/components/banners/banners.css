@@ -1,0 +1,14 @@
+.section-banner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.banner-img {
+  margin: 0.5rem;
+  width: 650px;
+  height: 300px;
+}
+.main-banner-img{
+    margin: 0.5rem;
+    width: 98%;
+    height: 300px;
+}

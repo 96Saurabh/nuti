@@ -1,0 +1,17 @@
+.about-title{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: #14ff72cb;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+}
+.aboutus{
+    width: 65%;
+    
+}
